@@ -2,4 +2,5 @@ BODY,TD	{font-family:Tahoma,Verdana,Arial; font-size:13px; vertical-align:top; c
 A			{color:#898989; text-decoration:underline;}
 A:visited	{color:#898989; text-decoration:underline;}
 A:hover		{color:#898989; text-decoration:none;} /* 028DCC */
-h1	{color:#00ff00;} /* in_branch2 */ /* again_in_branch2 */
+h1	{color:#00ff00;} /* in_branch2 */ /* no_conflicts */
+
