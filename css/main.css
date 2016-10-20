@@ -1,5 +1,6 @@
 BODY,TD	{font-family:Tahoma,Verdana,Arial; font-size:13px; vertical-align:top; color:#898989;} /* 595A5C */
+/* comment */
 A			{color:#898989; text-decoration:underline;}
 A:visited	{color:#898989; text-decoration:underline;}
-A:hover		{color:#898989; text-decoration:none;} /* 028DCC */
-h1	{color:#0000ff;} /* aftermerge */ /* again_in_master */
+A:hover		{color:#898989; text-decoration:none;}
+h1	{color:#0000ff;}
